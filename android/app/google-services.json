@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243771858170",
+    "project_id": "mark1-18e1b",
+    "storage_bucket": "mark1-18e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243771858170:android:54f88cf6ed127802e13d43",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHQq4H78CTc9bHtjogpkzcFErTqX2RbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
